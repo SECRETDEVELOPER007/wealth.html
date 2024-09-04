@@ -1,0 +1,330 @@
+section{
+    /* width: 800px;*/
+     height: 1100px;
+     background-image: url(asset/background1.jpg);
+     opacity: 0.7;
+     background-size: cover;
+     justify-content: center;
+     /*position horizontally*/
+     align-items: flex-start;
+     /*position vertically*/
+     display:grid;
+     grid-template-columns: repeat(5, 1fr); grid-template-rows: repeat(5, 1fr);
+     animation: forwards 0.2s;
+ }
+ 
+ .first-section{
+     height: 200px;
+     width: 200px;
+     background-image:url(asset/img1.jpg); 
+     background-repeat: no-repeat;
+     opacity:1.0;
+     background-size:cover;
+     margin: 10px;
+     border-radius: 10px;
+     display: flex;
+ 
+ align-items: center;
+ justify-content: flex-end;
+ padding-right: 14px;
+ }
+ 
+ .second-section{
+     height: 200px;
+     width: 200px;
+     background-image:url(asset/img2.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin: 10px;
+     border-radius: 10px;
+     opacity: 1.0;
+     text-align: center;
+ 
+ justify-content: center;
+ }
+
+ .third-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+
+.fourth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.fifth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.sixth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.seventh-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.eight-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.nineth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.tenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.eleventh-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.twelveth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.thirteenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.fourtenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.fifteenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/IMAGE16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.sixteenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/IMAGE17.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.seventeenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image18.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.eighteenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image19.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.nineteenth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.twentyth-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.twentyone-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image22.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+.twentytwo-section{
+    height: 200px;
+    width: 200px;
+    background-image:url(asset/image23.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    opacity: 1.0;
+    text-align: center;
+
+ justify-content: center;
+}
+
+
+
+
+
